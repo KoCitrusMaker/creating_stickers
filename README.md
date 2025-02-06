@@ -6,7 +6,7 @@ This script allows you to edit PNG images to expand them, add borders, and save 
 The script is fully written in Python and requires the following libraries:
 
 ```bash
-pip install opencv-python numpy pillow tk
+pip install opencv-python numpy pillow tk tktooltip
 ```
 
 ## Instructions
