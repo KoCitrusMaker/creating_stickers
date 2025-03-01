@@ -10,6 +10,21 @@ pip install opencv-python numpy pillow tk tktooltip
 ```
 
 ## Instructions
+### GUI (Linux release)
+1. Download the latest release on the <a href="https://github.com/KoCitrusMaker/creating_stickers/releases/tag/v1.0">releases</a> section
+
+2. Mark the file as executable:
+   
+   **CLI command**
+  ```
+   chmod 755 file_path
+  ```
+   Where:
+   - `file_path`: Path to the executable file.
+     
+3. Double-click the executable file
+
+### CLI usage
 1. **Execution**:  
    Run the `main.py` file to start the program.
 
